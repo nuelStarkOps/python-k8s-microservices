@@ -1,0 +1,17 @@
+astroid==3.3.10
+blinker==1.9.0
+click==8.2.1
+dill==0.4.0
+Flask==3.1.1
+Flask-MySQLdb==2.0.0
+isort==6.0.1
+itsdangerous==2.2.0
+Jinja2==3.1.6
+MarkupSafe==3.0.2
+mccabe==0.7.0
+mysqlclient==2.2.7
+platformdirs==4.3.8
+PyJWT==2.10.1
+pylint==3.3.7
+tomlkit==0.13.3
+Werkzeug==3.1.3

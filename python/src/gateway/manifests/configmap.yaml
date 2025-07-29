@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: gateway-configmap
+data:
+  AUTH_SVC_ADDRESS: "auth:5000" # k8s resolves the svc name to the svc host ip addr
+  
